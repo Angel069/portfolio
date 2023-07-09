@@ -58,11 +58,11 @@ const Home = () => {
                 </BioSection>
                 <BioSection>
                     <BioYear>2023</BioYear>
-                    Develop my first project as a freelancer.
+                    Developed my first project as a freelancer.
                 </BioSection>
                 <BioSection>
                     <BioYear>2023 to present</BioYear>
-                    Seeking for my fist job in a professional company.
+                    Looking for my first job and continuing to expand my knowledge as a front-end developer.
                 </BioSection>
             </Section>
             <Section delay={0.3}>
