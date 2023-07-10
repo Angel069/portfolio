@@ -23,7 +23,7 @@ import {
           <ListItem>
             <Meta>Website</Meta>
             <Link href="https://github.com/Angel069/teslaClone">
-            https://github.com/Angel069/teslaClon <ExternalLinkIcon mx="2px" />
+            https://github.com/Angel069/teslaClone <ExternalLinkIcon mx="2px" />
             </Link>
           </ListItem>
           <ListItem>
