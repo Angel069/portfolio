@@ -11,10 +11,10 @@ import {
   import Layout from '../../components/layouts/article'
   
   const Work = () => (
-    <Layout title="Travel">
+    <Layout title="Tesla Clone">
       <Container>
         <Title>
-          Tesla Clon <Badge>2023</Badge>
+          Tesla Clone <Badge>2023</Badge>
         </Title>
         <P>
         Tesla website homepage clone made with Astro and React. Not responsive design.
@@ -22,7 +22,7 @@ import {
         <List ml={4} my={4}>
           <ListItem>
             <Meta>Website</Meta>
-            <Link href="https://github.com/Angel069/teslaClon">
+            <Link href="https://github.com/Angel069/teslaClone">
             https://github.com/Angel069/teslaClon <ExternalLinkIcon mx="2px" />
             </Link>
           </ListItem>
