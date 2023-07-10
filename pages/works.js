@@ -6,6 +6,7 @@ import Layout from '../components/layouts/article'
 import thumbDesire from '../public/images/works/jardinImg.png'
 import thumbMokepon from '../public/images/works/mokeponImg.png'
 import thumbTravel from '../public/images/works/travelImg.png'
+import thumbTesla from '../public/images/works/teslaImg2.png'
 
 const Works = () => {
     return (
@@ -29,6 +30,11 @@ const Works = () => {
                 <Section>
                     <WorkGridItem id="travel" title="Travel" thumbnail={thumbTravel}>
                         Layout design for a travel website
+                    </WorkGridItem>
+                </Section>
+                <Section>
+                    <WorkGridItem id="tesla" title="Tesla Clon" thumbnail={thumbTesla}>
+                        Tesla website home page clone
                     </WorkGridItem>
                 </Section>
             </SimpleGrid>

@@ -11,33 +11,33 @@ import {
   import Layout from '../../components/layouts/article'
   
   const Work = () => (
-    <Layout title="Mokepon">
+    <Layout title="Travel">
       <Container>
         <Title>
-          Mokepon <Badge>2022</Badge>
+          Tesla Clon <Badge>2023</Badge>
         </Title>
         <P>
-        Video game created with JavaScript featuring functionalities such as choosing your Mokepon, exploring the map, Mokepon battles, and a functional server in Node.js.
+        Tesla website homepage clone made with Astro and React. Not responsive design.
         </P>
         <List ml={4} my={4}>
           <ListItem>
             <Meta>Website</Meta>
-            <Link href="https://github.com/Angel069/mokepon">
-            https://github.com/Angel069/mokepon <ExternalLinkIcon mx="2px" />
+            <Link href="https://github.com/Angel069/teslaClon">
+            https://github.com/Angel069/teslaClon <ExternalLinkIcon mx="2px" />
             </Link>
           </ListItem>
           <ListItem>
             <Meta>Platform</Meta>
-            <span>Windows/macOS/Linux/iOS/Android</span>
+            <span>Windows/macOS/Linux</span>
           </ListItem>
           <ListItem>
             <Meta>Stack</Meta>
-            <span>HTML, CSS, Javascript, Node.js</span>
+            <span>HTML, CSS, Javascript, React, Astro</span>
           </ListItem>
         </List>
   
-        <WorkImage src="/images/works/mokeponImg.png" alt="Mokepon" />
-        <WorkImage src="/images/works/mokeponImg2.png" alt="Mokepon" />
+        <WorkImage src="/images/works/teslaImg2.png" alt="Travel" />
+        <WorkImage src="/images/works/teslaImg.png" alt="Travel" />
       </Container>
     </Layout>
   )
