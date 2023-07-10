@@ -17,7 +17,7 @@ import {
           Tesla Clone <Badge>2023</Badge>
         </Title>
         <P>
-        Tesla website homepage clone made with Astro and React. Not responsive design.
+        Tesla website homepage clone made with Astro and Tailwind. Not responsive design.
         </P>
         <List ml={4} my={4}>
           <ListItem>
@@ -32,7 +32,7 @@ import {
           </ListItem>
           <ListItem>
             <Meta>Stack</Meta>
-            <span>HTML, CSS, Javascript, React, Astro</span>
+            <span>HTML, Javascript, React, Astro, Tailwind</span>
           </ListItem>
         </List>
   
