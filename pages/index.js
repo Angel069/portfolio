@@ -34,7 +34,7 @@ const Home = () => {
                 <Heading as="h3" variant="section-title" size="lg" pt="4" pb="2" borderTop="2px solid gray">
                     Work
                 </Heading>
-                <Paragraph>Passionate about technology and self-taught in programming, I embarked on a learning journey after completing my bachelor's degree. My self-directed approach has given me the ability to learn independently and adapt quickly.</Paragraph>
+                <Paragraph>Passionate about technology and self-taught in programming, I embarked on a learning journey after completing my high school. My self-directed approach has given me the ability to learn independently and adapt quickly.</Paragraph>
                 <Box align="center" my={4}>
                     <NextLink href="/works">
                         <Button rightIcon={<ChevronRightIcon />} colorScheme="teal">My Portfolio</Button>
@@ -50,7 +50,7 @@ const Home = () => {
                 </BioSection>
                 <BioSection>
                     <BioYear>2022</BioYear>
-                    Completed Bachelor's degree.
+                    Completed High School.
                 </BioSection>
                 <BioSection>
                     <BioYear>2022</BioYear>
