@@ -71,7 +71,7 @@ const Notes = () => (
 
         <Section delay={0.3}>
           <GridItem
-            title="Programming languages"
+            title="Logical thinking with programming languages"
             thumbnail={thumbCertificate7}
           />
         </Section>
