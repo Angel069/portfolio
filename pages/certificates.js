@@ -10,12 +10,12 @@ import thumbCertificate4 from '../public/images/contents/diploma-html-practico-1
 import thumbCertificate5 from '../public/images/contents/diploma-practico-css-1.png'
 import thumbCertificate6 from '../public/images/contents/diploma-intro-historia-internet-1.png'
 import thumbCertificate7 from '../public/images/contents/diploma-pensamiento-logico-lenguajes-1.png'
-import thumbCertificate8 from '../public/images/contents/CSS 2023-03-27T20_31_10+00_00 Angel Gabriel Brand Sanchez-1.png'
-import thumbCertificate9 from '../public/images/contents/DOM 2023-04-21T14_08_49+00_00 Angel Gabriel Brand Sanchez-1.png'
-import thumbCertificate10 from '../public/images/contents/HFE 2023-04-26T21_12_30+00_00 Angel Gabriel Brand Sanchez-1.png'
-import thumbCertificate11 from '../public/images/contents/HTML 2023-03-22T20_06_01+00_00 Angel Gabriel Brand Sanchez-1.png'
-import thumbCertificate12 from '../public/images/contents/JS 2023-04-18T20_36_07+00_00 Angel Gabriel Brand Sanchez-1.png'
-import thumbCertificate13 from '../public/images/contents/RFE 2023-04-26T21_12_38+00_00 Angel Gabriel Brand Sanchez-1.png'
+import thumbCertificate8 from '../public/images/contents/CSS.png'
+import thumbCertificate9 from '../public/images/contents/DOM.png'
+import thumbCertificate10 from '../public/images/contents/HFE.png'
+import thumbCertificate11 from '../public/images/contents/HTML.png'
+import thumbCertificate12 from '../public/images/contents/JS.png'
+import thumbCertificate13 from '../public/images/contents/RFE.png'
 
 
 const Notes = () => (
