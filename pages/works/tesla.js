@@ -32,7 +32,7 @@ import {
           </ListItem>
           <ListItem>
             <Meta>Stack</Meta>
-            <span>HTML, Javascript, React, Astro, Tailwind</span>
+            <span>HTML, JavaScript, React, Astro, Tailwind</span>
           </ListItem>
         </List>
   

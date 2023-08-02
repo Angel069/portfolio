@@ -113,7 +113,7 @@ const Home = () => {
         <Box align="center" my={4}>
           <Button
             as={NextLink}
-            href="mailto:angel.brand069@gmail.com"
+            href="mailto:angel.brand.dev@gmail.com"
             scroll={false}
             leftIcon={<EmailIcon />}
             colorScheme="teal"

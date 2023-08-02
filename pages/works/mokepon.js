@@ -32,7 +32,7 @@ import {
           </ListItem>
           <ListItem>
             <Meta>Stack</Meta>
-            <span>HTML, CSS, Javascript, Node.js</span>
+            <span>HTML, CSS, JavaScript, Node.js</span>
           </ListItem>
         </List>
   

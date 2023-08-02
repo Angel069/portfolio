@@ -17,7 +17,7 @@ import {
           My Desire Garden <Badge>2023</Badge>
         </Title>
         <P>
-            Website created for an event garden with extensive information, photos, and a quotation creation and submission system.
+            Website created for an event garden with extensive information, photos, and a quotation creation and submission system. 100% designed and developed by me.
         </P>
         <List ml={4} my={4}>
           <ListItem>
@@ -32,7 +32,7 @@ import {
           </ListItem>
           <ListItem>
             <Meta>Stack</Meta>
-            <span>HTML, CSS, Javascript</span>
+            <span>HTML, CSS, JavaScript, Bootstrap</span>
           </ListItem>
         </List>
   
