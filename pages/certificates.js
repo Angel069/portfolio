@@ -106,7 +106,7 @@ const Notes = () => (
 
         <Section delay={0.3}>
           <GridItem
-            title="Javascript"
+            title="JavaScript"
             thumbnail={thumbCertificate12}
           />
         </Section>
