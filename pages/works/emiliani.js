@@ -22,8 +22,8 @@ import {
         <List ml={4} my={4}>
           <ListItem>
             <Meta>Website</Meta>
-            <Link href="https://jardinmideseo.com.mx">
-            https://angelbrandsolutions.com <ExternalLinkIcon mx="2px" />
+            <Link href="https://instituto-emiliani-unofficial.netlify.app">
+            https://instituto-emiliani-unofficial.netlify.app <ExternalLinkIcon mx="2px" />
             </Link>
           </ListItem>
           <ListItem>

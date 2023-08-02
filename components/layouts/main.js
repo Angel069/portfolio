@@ -9,9 +9,8 @@ const Main = ({ children, router }) => {
         <Box as="main" pb={8}>
             <Head>
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
-                
-                <link rel="icon" href="/a.ico" type="image/x-icon" />
-                <title>Angel Brand - Homepage</title>
+                <title>Angel Brand | Homepage</title>
+                <link rel="icon" href="/a.ico" />
             </Head>
 
             <Navbar path={router.asPath} />
