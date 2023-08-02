@@ -23,7 +23,7 @@ const Home = () => {
                     <Heading as="h2" variant="page-title" size="lg" pt="4">
                         Angel Brand
                     </Heading>
-                    <p>Developer Jr / Student</p>
+                    <p>Developer Jr / Student / Freelancer</p>
                 </Box>
                 <Box flexShrink={0} mt={{base: 4, md: 0}} ml={{md: 6}} align="center" pb="2">
                     <Image borderColor="whiteAlpha.800" borderWidth={2} borderStyle="solid" maxWidth="100px" display="inline-block" borderRadius="full" src="/images/logo.jpg" alt="Profile Image"/>
