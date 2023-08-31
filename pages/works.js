@@ -25,7 +25,7 @@ const Works = () => {
                     </WorkGridItem>
                 </Section>
                 <Section>
-                    <WorkGridItem id="desire" title="My Desire Garden" thumbnail={thumbDesire}>
+                    <WorkGridItem id="desire" title="Mi Deseo Garden" thumbnail={thumbDesire}>
                         Website for an event garden
                     </WorkGridItem>
                 </Section>

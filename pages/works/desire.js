@@ -14,7 +14,7 @@ import {
     <Layout title="My Desire Garden">
       <Container>
         <Title>
-          My Desire Garden <Badge>2023</Badge>
+          Mi Deseo Garden <Badge>2023</Badge>
         </Title>
         <P>
             Website created for an event garden with extensive information, photos, and a quotation creation and submission system. 100% designed and developed by me.
