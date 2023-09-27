@@ -30,11 +30,6 @@ const Works = () => {
                     </WorkGridItem>
                 </Section>
                 <Section>
-                    <WorkGridItem id="emiliani" title="Emiliani Mexico Institute" thumbnail={thumbEmiliani}>
-                        Academic website
-                    </WorkGridItem>
-                </Section>
-                <Section>
                     <WorkGridItem id="travel" title="Travel" thumbnail={thumbTravel}>
                         Layout design for a travel website
                     </WorkGridItem>
