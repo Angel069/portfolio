@@ -6,6 +6,7 @@ import Layout from '../components/layouts/article'
 import thumbDesire from '../public/images/works/jardinImg.png'
 import ThumbMyWebsite from '../public/images/works/mywebsiteImg.png'
 import thumbEmiliani from '../public/images/works/emilianiImg.png'
+import thumbSecretNumber from '../public/images/works/secretNumberImg.png'
 import thumbTravel from '../public/images/works/travelImg.png'
 import thumbMokepon from '../public/images/works/mokeponImg.png'
 import thumbTesla from '../public/images/works/teslaImg2.png'
@@ -27,6 +28,16 @@ const Works = () => {
                 <Section>
                     <WorkGridItem id="desire" title="Mi Deseo Garden" thumbnail={thumbDesire}>
                         Website for an event garden
+                    </WorkGridItem>
+                </Section>
+                <Section>
+                    <WorkGridItem id="academic" title="Academic Website" thumbnail={thumbEmiliani}>
+                        Academic Website Template
+                    </WorkGridItem>
+                </Section>
+                <Section>
+                    <WorkGridItem id="secretNumber" title="Secret Number" thumbnail={thumbSecretNumber}>
+                        Secret Number - JS Game
                     </WorkGridItem>
                 </Section>
                 <Section>
