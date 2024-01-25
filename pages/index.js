@@ -26,7 +26,7 @@ const Home = () => {
                     <p>Developer Jr / Student / Freelancer</p>
                 </Box>
                 <Box flexShrink={0} mt={{base: 4, md: 0}} ml={{md: 6}} align="center" pb="2">
-                    <Image borderColor="whiteAlpha.800" borderWidth={2} borderStyle="solid" maxWidth="100px" display="inline-block" borderRadius="full" src="/images/profile-logo2.jpg" alt="Profile Image"/>
+                    <Image borderColor="whiteAlpha.800" borderWidth={2} borderStyle="solid" maxWidth="100px" display="inline-block" borderRadius="full" src="/images/profile-logo.png" alt="Profile Image"/>
                 </Box>
             </Box>
 
