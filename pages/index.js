@@ -61,7 +61,7 @@ const Home = () => {
                     Developed my first project as a freelancer.
                 </BioSection>
                 <BioSection>
-                    <BioYear>2023 to present</BioYear>
+                    <BioYear>2024 to present</BioYear>
                     Looking for my first job and continuing to expand my knowledge as a front-end developer.
                 </BioSection>
             </Section>

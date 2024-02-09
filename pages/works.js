@@ -10,6 +10,7 @@ import thumbSecretNumber from '../public/images/works/secretNumberImg.png'
 import thumbTravel from '../public/images/works/travelImg.png'
 import thumbMokepon from '../public/images/works/mokeponImg.png'
 import thumbTesla from '../public/images/works/teslaImg2.png'
+import thumbAluraBarbershop from '../public/images/works/aluraImg.png'
 
 const Works = () => {
     return (
@@ -47,12 +48,17 @@ const Works = () => {
                 </Section>
                 <Section>
                     <WorkGridItem id="mokepon" title="Mokepon" thumbnail={thumbMokepon}>
-                        Combat video game with Mokepons
+                        Combat videogame with Mokepons
                     </WorkGridItem>
                 </Section>
                 <Section>
                     <WorkGridItem id="tesla" title="Tesla Clone" thumbnail={thumbTesla}>
                         Tesla website home page clone
+                    </WorkGridItem>
+                </Section>
+                <Section>
+                    <WorkGridItem id="aluraBarbershop" title="Alura Barbershop" thumbnail={thumbAluraBarbershop}>
+                        Website template for a Barbershop
                     </WorkGridItem>
                 </Section>
             </SimpleGrid>
